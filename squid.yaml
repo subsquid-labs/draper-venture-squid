@@ -1,0 +1,10 @@
+manifestVersion: subsquid.io/v0.1
+name: drapper-scrapper
+version: 1
+description: "Basic example of processing evm logs "
+build:
+deploy:
+  processor:
+    cmd:
+      - node
+      - lib/processor
