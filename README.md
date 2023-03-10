@@ -19,3 +19,4 @@ SPREADSHEET_ID=''
 sqd build
 sqd process
 ```
+All commands are listed in `commands.json` file
