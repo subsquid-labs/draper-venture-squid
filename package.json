@@ -15,7 +15,7 @@
     "google-auth-library": "^8.7.0"
   },
   "devDependencies": {
-    "@subsquid/evm-typegen": "^2.1.1",
+    "@subsquid/evm-typegen": "^3.0.0",
     "@types/node": "^18.11.18",
     "typescript": "^4.9.4"
   }
