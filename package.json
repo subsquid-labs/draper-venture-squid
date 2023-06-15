@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@subsquid/archive-registry": "^3.0.0",
-    "@subsquid/evm-processor": "^0.4.0",
+    "@subsquid/evm-processor": "^1.0.0",
     "@subsquid/gsheets-store": "^0.0.1",
     "dotenv": "^16.0.3",
     "ethers": "^5.7.2",
